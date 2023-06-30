@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özgür ÖZKAN</h1>
-<h3 align="center">A programmer candidate who has devoted himself to game programming 🎮🕹️</h3>
+<h3 align="center">An excited computer engineer candidate who has devoted himself to game programming 🎮🕹️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgurozkan01&label=Profile%20views&color=0e75b6&style=flat" alt="ozgurozkan01" /> </p>
 
