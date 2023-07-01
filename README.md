@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgurozkan01&label=Profile%20views&color=0e75b6&style=flat" alt="ozgurozkan01" /> </p>
 
-<img align="right" alt="Coding" width="425" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN4MTB6MHRrd3hramhnc3kzNGxiczN3b2p4bTZkc2ZrbXh6MjkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="Coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN4MTB6MHRrd3hramhnc3kzNGxiczN3b2p4bTZkc2ZrbXh6MjkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 - 🌱 I’m currently learning **Unreal Engine, C++**
 
