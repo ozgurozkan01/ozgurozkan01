@@ -18,7 +18,6 @@
 <p align="left">
 <a href="https://twitter.com/@ozgurr_ozkann_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ozgurr_ozkann_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ozgurozkan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozgurozkan01" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21382945/%c3%96zg%c3%bcr-%c3%96zkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21382945/%c3%96zg%c3%bcr-%c3%96zkan" height="30" width="40" /></a>
 <a href="https://instagram.com/0zgur.0zkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0zgur.0zkan" height="30" width="40" /></a>
 </p>
 
