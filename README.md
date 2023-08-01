@@ -1,6 +1,6 @@
  
 <h1 align="center">Hi 👋, I'm Özgür</h1>
-<h3 align="center">A programmer candidate who has devoted himself to game programming 🎮🕹️</h3>
+<h3 align="center">A programmer who has devoted himself to game programming 🎮🕹️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozgurozkan01&label=Profile%20views&color=0e75b6&style=flat" alt="ozgurozkan01" /> </p>
 
@@ -8,11 +8,7 @@
 
 - 🔭 I’m currently working on **Empress Of Battlefield ⚔️**
 
-- 🌱 I’m currently learning **Unreal Engine , C++ 💻**
-
 - 📫 How to reach me **ozgurozkann4@gmail.com 📩** 
-
-- ⚡ About me : **cheerful, perfectionist and learning lover 💯👌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
