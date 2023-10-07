@@ -4,8 +4,6 @@
 
 <img align="right" alt="Coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN4MTB6MHRrd3hramhnc3kzNGxiczN3b2p4bTZkc2ZrbXh6MjkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
-- 🔭 I’m currently working on **Empress Of Battlefield ⚔️**
-
 - 📫 How to reach me **ozgurozkann4@gmail.com 📩** 
 
 <h3 align="left">Connect with me:</h3>
