@@ -3,7 +3,7 @@
 <h3 align="center"> A lover of clean code  who has devoted himself to game programming 🎮🕹️ </h3>
 - 🌱 I’m currently learning **C++ and Low Level Programming** 
 <br></br>
-- 🎮 I'm currently working on ** TPS_Game **
+- 🎮 I'm currently working on ** FreeBoy - GameBoy Emulator with C++**
 <img align="right" alt="Coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN4MTB6MHRrd3hramhnc3kzNGxiczN3b2p4bTZkc2ZrbXh6MjkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h3 align="left">Languages and Tools:</h3>
