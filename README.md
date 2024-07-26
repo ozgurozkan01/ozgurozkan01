@@ -1,9 +1,9 @@
  
 <h1 align="center"> Hi 👋, I'm Özgür </h1>
-<h3 align="center"> A lover of clean code  who has devoted himself to game programming 🎮🕹️ </h3>
+<h3 align="center"> A lover of clean code </h3>
 - 🌱 I’m currently learning **C++ and Low Level Programming** 
 <br></br>
-- 🎮 I'm currently working on ** FreeRun (Parkour Game) **
+- 🎮 I'm currently working on ** Multithreading with C++ **
 <br></br>
 -  Youtube Channel : https://www.youtube.com/@ozgurozkan_
 <br></br>
