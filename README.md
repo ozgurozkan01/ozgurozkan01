@@ -3,7 +3,7 @@
 <h3 align="center"> A lover of clean code  who has devoted himself to game programming 🎮🕹️ </h3>
 - 🌱 I’m currently learning **C++ and Low Level Programming** 
 <br></br>
-- 🎮 I'm currently working on ** TPS_Game **
+- 🎮 I'm currently working on ** FreeRun (Parkour Game) **
 <br></br>
 -  Youtube Channel : https://www.youtube.com/@ozgurozkan_
 <br></br>
