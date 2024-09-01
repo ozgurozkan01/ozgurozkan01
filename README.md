@@ -7,6 +7,9 @@
 <br></br>
 -  Youtube Channel : https://www.youtube.com/@ozgurozkan_
 <br></br>
+-  Chill Game Jam (August 2024)
+<br></br>
+
 <img align="right" alt="Coding" width="450" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN4MTB6MHRrd3hramhnc3kzNGxiczN3b2p4bTZkc2ZrbXh6MjkwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
 
 <h3 align="left">Languages and Tools:</h3>
