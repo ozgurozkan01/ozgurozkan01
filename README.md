@@ -1,10 +1,17 @@
- 
-<h1 align="center"> Hi 👋, I'm Özgür </h1>
-<h3 align="center"> A lover of clean code </h3>
-- 🌱 I’m currently learning **C++ and Low Level Programming** 
-<br></br>
-- 🎮 I'm currently working on ** Multithreading with C++ **
-<br></br>
+
+```cpp
+
+int main()
+{
+    std::string full_name     = "Özgür ÖZKAN";
+    std::string title         = "Software Engineer Candidate";
+    std::string information   = "Lover of learning and clean code..."
+                                "I’m currently learning **C++ and Low Level Programming**"
+                                "I'm currently working on ** Multithreading with C++ **";
+    return 0;
+}
+
+```
 -  Youtube Channel : https://www.youtube.com/@ozgurozkan_
 <br></br>
 -  Chill Game Jam (August 2024)
