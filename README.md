@@ -12,7 +12,7 @@ int main()
 }
 
 ```
--  Youtube Channel : https://www.youtube.com/@ozgurozkan_
+-  Youtube Channel : [https://www.youtube.com/@ozgurozkan_](https://www.youtube.com/@ozgurozkan_)
 <br></br>
 -  Chill Game Jam (August 2024)
 <br></br>
