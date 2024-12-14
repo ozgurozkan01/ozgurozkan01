@@ -7,7 +7,7 @@ int main()
     std::string title         = "Software Engineer Candidate";
     std::string information   = "Lover of learning and clean code..."
                                 "I’m currently learning **C++ and Low Level Programming**"
-                                "I'm currently working on ** Multithreading with C++ **";
+                                "I'm currently working on ** FPGA/ARM with C++ **";
     return 0;
 }
 
