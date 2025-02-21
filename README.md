@@ -6,8 +6,8 @@ int main()
     std::string full_name     = "Özgür ÖZKAN";
     std::string title         = "Software Engineer Candidate";
     std::string information   = "Lover of learning and clean code..."
-                                "I’m currently learning **C++ and Low Level Programming**"
-                                "I'm currently working on ** Original NES Emulator**";
+                                "I’m currently learning ** Cyber Security and Networking **"
+                                "I'm currently working on ** Port Scanner **";
     return 0;
 }
 
