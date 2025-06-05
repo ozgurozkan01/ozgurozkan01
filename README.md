@@ -6,7 +6,6 @@ int main()
     std::string full_name     = "Özgür ÖZKAN";
     std::string title         = "Cyber Security Intern";
     std::string information   = "I’m currently improving myself on -> ** Cyber Security and Network Administration **"
-                                "I’m currently learning ------------> ** C++ and GoLang **"
                                 "I'm currently working on ----------> ** Metamorphic Malware Generator **";
     return 0;
 }
