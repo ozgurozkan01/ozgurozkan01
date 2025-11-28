@@ -5,7 +5,7 @@ int main()
 {
     std::string full_name     = "Özgür ÖZKAN";
     std::string title         = "Cyber Security Enthusiast";
-    std::string information   = "I’m currently improving myself on -> ** Pentesting, Web Security and Linux **"
+    std::string information   = "I’m currently improving myself on -> ** Security and Linux **"
     return 0;
 }
 
